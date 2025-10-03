@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /how-it-works
+Allow: /pricing
+Allow: /industries
+Allow: /samples
+Allow: /reviews
+Allow: /blog
+Allow: /blog/*
+Allow: /privacy
+Allow: /terms
+Disallow: /checkout
+Disallow: /signup
+
+Sitemap: https://example.com/sitemap.xml
